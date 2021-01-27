@@ -36,7 +36,7 @@ function draw() {
 
   function keyPressed(){
 	if (keyCode === UP_ARROW){
-		paper.body.position.x = 400;
+		paper.body.position.x = 412;
 		paper.body.position.y=200;
 	}
   } 
